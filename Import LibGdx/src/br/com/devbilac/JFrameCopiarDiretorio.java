@@ -271,6 +271,7 @@ public class JFrameCopiarDiretorio extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(null,""
         		+ "Para Utilizar siga as instruções:"
         		+ "\n"
+        		+ "\nAtenção: Faça um backup antes da Importação."
         		+ "\nCrie um Projeto no Gdx-Setup com o mesmo nome do"
         		+ "\nprojeto que deseja importar."
         		+ "\nEx: com.mygdx.game"
